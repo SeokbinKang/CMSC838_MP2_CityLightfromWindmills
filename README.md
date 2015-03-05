@@ -15,7 +15,14 @@ Source Code
   
   Adafruit_NeoPixel.h -> Neopixel LED API Wrapper
 
+Hardware Component
+-----
+  [http://www.adafruit.com/category/168?gclid=CjwKEAiAmuCnBRCLj4D7nMWqp1USJABcT4dfRb3MFvUZVDyFr7Tg5PLFnIpEN-a3gsF8bBOPL3o8ohoCdofw_wcB] Adafruit Neopixel LED Strip
 
+Test
+-----
+  Build on Windows8/64bit
+  Tested on Arduino Leonardo Rev.3
   
   
 
