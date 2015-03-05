@@ -10,7 +10,9 @@ Environment
 Source Code
 -----
   Main.ino  -> Arduino Main source code
+  
   Adafruit_NeoPixel.cpp -> Neopixel LED API Wrapper
+  
   Adafruit_NeoPixel.h -> Neopixel LED API Wrapper
 
 
