@@ -17,7 +17,7 @@ Source Code
 
 Hardware Component
 -----
-  [http://www.adafruit.com/category/168?gclid=CjwKEAiAmuCnBRCLj4D7nMWqp1USJABcT4dfRb3MFvUZVDyFr7Tg5PLFnIpEN-a3gsF8bBOPL3o8ohoCdofw_wcB] Adafruit Neopixel LED Strip
+  Adafruit Neopixel LED Strip (http://www.adafruit.com/category/168?gclid=CjwKEAiAmuCnBRCLj4D7nMWqp1USJABcT4dfRb3MFvUZVDyFr7Tg5PLFnIpEN-a3gsF8bBOPL3o8ohoCdofw_wcB)
 
 Test
 -----
